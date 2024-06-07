@@ -8,7 +8,7 @@ This repository serves as a publication platform for security advisories.
 - [CVE-2024-36586 AdGuardHome - Privilege Escalation](https://raw.githubusercontent.com/go-compile/security-advisories/master/CVE-2024-36586.pdf)
 - [CVE-2024-36587 dnscrypt-proxy - Privilege Escalation](https://raw.githubusercontent.com/go-compile/security-advisories/master/CVE-2024-36587.pdf)
 - [CVE-2024-36588 Anon Shop - Message Spoofing](https://raw.githubusercontent.com/go-compile/security-advisories/master/CVE-2024-36588.pdf)
-- [CVE-2024-36589.pdf Anon Shop - Password Security](https://raw.githubusercontent.com/go-compile/security-advisories/master/CVE-2024-36589.pdf.pdf)
+- [CVE-2024-36589 Anon Shop - Password Security](https://raw.githubusercontent.com/go-compile/security-advisories/master/CVE-2024-36589.pdf.pdf)
 
 ### Licensed Under Creative Commons
 *CC-BY-SA*
